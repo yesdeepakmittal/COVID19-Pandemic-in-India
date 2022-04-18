@@ -1,6 +1,6 @@
 fpdf==1.7.2
 kaleido==0.2.1
-numpy==1.22.3
+numpy
 pandas==1.4.2
 plotly==5.7.0
 python-dateutil==2.8.2
