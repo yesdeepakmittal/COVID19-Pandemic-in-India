@@ -1,5 +1,5 @@
 # Covid19 Data Visualization
-This project is an attempt to visualize the distribution of Covid19 cases chronologically in different states. A [Python web application](https://share.streamlit.io/yesdeepakmittal/covid19-pandemic-in-india) is also made using Streamlit framework. 
+This project is an attempt to visualize the distribution of Covid19 cases chronologically in different states. A [Python web application](https://share.streamlit.io/yesdeepakmittal/covid19-pandemic-in-india/app.py) is also made using Streamlit framework. 
 
 ## How to use it?
 - Install latest version of [Python](https://www.python.org/downloads/)
