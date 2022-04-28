@@ -10,6 +10,10 @@ This project is an attempt to visualize the distribution of Covid19 cases chrono
 - run application using `streamlit run app.py`
 - Check your application in the browser at `http://localhost:8501` 
 
+## Docker Image
+The Docker image is available at [DockerHub](https://hub.docker.com/r/yesdeepakmittal/covid19-pandemic-in-india). This image gets automatically updated for every `push` or `pull_request` to this repository using GitHub Actions. 
+
+
 ## Overview
 
 <div><img src="img/2.png" alt="" width="700" height="500"></div>
@@ -22,4 +26,4 @@ This project is an attempt to visualize the distribution of Covid19 cases chrono
 
 ## Support
 - Please contribute to the project by adding new functionality and opening a pull request
-- For any support to configure this project, consider opening an [Issue](https://github.com/yesdeepakmittal/COVID19-Pandemic-in-India/issues/new)
+- For any support/clarification to configure this project, consider opening an [Issue](https://github.com/yesdeepakmittal/COVID19-Pandemic-in-India/issues/new)
