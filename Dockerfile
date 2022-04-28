@@ -1,3 +1,3 @@
 FROM python
 COPY . .
-CMD python app.py
+CMD streamlit run app.py
