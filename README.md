@@ -13,6 +13,16 @@ This project is an attempt to visualize the distribution of Covid19 cases chrono
 ## Docker Image
 The Docker image is available at [DockerHub](https://hub.docker.com/r/yesdeepakmittal/covid19-pandemic-in-india). This image gets automatically updated for every `push` or `pull_request` to this repository using GitHub Actions. 
 
+## Want to run Docker Image?
+- Log in on [Play with Docker](https://labs.play-with-docker.com/) by signing in using Docker ID
+- Create a new instance
+- Run the following commands
+```
+docker pull yesdeepakmittal/covid19-pandemic-in-india:latest
+docker run -it yesdeepakmittal/covid19-pandemic-in-india:latest /bin/sh
+pip install streamlit
+streamlit run app.py
+```
 
 ## Overview
 
